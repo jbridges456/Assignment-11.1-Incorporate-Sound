@@ -1,0 +1,29 @@
+body {
+    background-color: #f0f8ff; /* Light blue background */
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    color: #2e8b57; /* Sea green */
+}
+
+input, button {
+    margin: 10px;
+    padding: 8px;
+    font-size: 16px;
+}
+
+button {
+    background-color: #4CAF50; /* Green button */
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+#result {
+    font-size: 18px;
+    margin-top: 20px;
+}
